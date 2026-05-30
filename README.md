@@ -1,7 +1,6 @@
 # Mushroom-game 
 I wrote this game for the activity. Simple mushroom game 
 
-
 <!DOCTYPE html>
 <html lang="fa">
 <head>
@@ -21,6 +20,7 @@ canvas { display:block; }
   text-shadow:0 0 8px #00eeff;
   z-index:5;
 }
+
 .overlay {
   position:fixed; inset:0;
   display:flex; flex-direction:column;
