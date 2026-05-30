@@ -406,6 +406,7 @@ function nextLv(){
   document.getElementById('s2').classList.add('hidden');
   gs='play';init();
 }
+
 loop();
 </script>
 </body>
