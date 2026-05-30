@@ -20,7 +20,6 @@ canvas { display:block; }
   text-shadow:0 0 8px #00eeff;
   z-index:5;
 }
-
 .overlay {
   position:fixed; inset:0;
   display:flex; flex-direction:column;
