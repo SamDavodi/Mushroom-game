@@ -225,7 +225,7 @@ function update(){
       if(hit(e,pl)){
         const ox=Math.min(e.x+e.w,pl.x+pl.w)-Math.max(e.x,pl.x);
         const oy=Math.min(e.y+e.h,pl.y+pl.h)-Math.max(e.y,pl.y);
-        if(ox<oy)e.vx*=-1;
+        if(ox<oy)e.vx*=-1;;
       }
     }
     if(P.inv<=0&&hit(P,e)){
