@@ -8,7 +8,7 @@ I wrote this game for the activity. Simple mushroom game 💙💙💙💥💥
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mushroom Network</title>
 <style>
-* { margin:0; padding:0; box-sizing:border-box; }
+** { margin:0; padding:0; box-sizing:border-box; }
 body { background:#000; overflow:hidden; font-family:monospace; }
 canvas { display:block; }
 #ui {
