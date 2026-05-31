@@ -60,7 +60,7 @@ canvas { display:block; }
 <div id="ui">
   <span>امتیاز: <b id="sc">0</b></span>
   <span>مرحله: <b id="lv">1</b></span>
-  <span id="hp">♥♥♥</span>
+  <span id="hp">♥♥❤️♥</span>
 </div>
 <canvas id="c"></canvas>
 <div id="mctrl">
