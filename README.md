@@ -1,4 +1,4 @@
-# Mushroom-game 
+# Mushroom-game in bsse network 💙💙💙 
 I wrote this game for the activity. Simple mushroom game 💙💙💙💥💥💥
 
 <!DOCTYPE html>
