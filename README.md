@@ -33,7 +33,7 @@ canvas { display:block; }
   padding:12px 36px; background:transparent;
   border:2px solid #00eeff; color:#00eeff;
   font-family:monospace; font-size:14px; font-weight:bold;
-  letter-spacing:2px; cursor:pointer;
+  letter-spacing:2px;; cursor:pointer;
   box-shadow:0 0 15px rgba(0,200,255,0.3);;
 }
 .btn:hover { background:rgba(0,200,255,0.15); }
