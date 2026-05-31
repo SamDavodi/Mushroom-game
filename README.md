@@ -102,7 +102,7 @@ window.onkeydown = e => K[e.code]=1;
 window.onkeyup = e => K[e.code]=0;
 
 // Mobile
-const bl=document.getElementById('bl');
+const bl=document.getElementById('bl');;
 const br=document.getElementById('br');
 const bj=document.getElementById('bj');
 bl.ontouchstart=()=>K['ArrowLeft']=1; bl.ontouchend=()=>K['ArrowLeft']=0;
