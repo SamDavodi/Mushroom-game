@@ -25,7 +25,7 @@ canvas { display:block; }
   display:flex; flex-direction:column;
   align-items:center; justify-content:center;
   background:rgba(0,0,20,0.9);
-  color:#00eeff; gap:18px; z-index:10;
+  color:#*00eeff; gap:18px; z-index:10;
 }
 .overlay h1 { font-size:36px; text-shadow:0 0 20px #00eeff; letter-spacing:4px; }
 .overlay p { color:#88ccff; font-size:13px; line-height:2; text-align:center; }
