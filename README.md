@@ -112,7 +112,7 @@ bj.ontouchstart=()=>K['Space']=1; bj.ontouchend=()=>K['Space']=0;
 const P = {
   x:80, y:200, w:32, h:36,
   vx:0, vy:0, onG:false, jc:0, inv:0, face:1,
-  trail:[]
+  trail:[][]
 };
 
 const G=0.55, JF=-13, SP=5;
