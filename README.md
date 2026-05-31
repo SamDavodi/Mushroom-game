@@ -155,7 +155,7 @@ function init(){
   setHP();
 }
 
-function setHP(){
+function setHP()(){
   let s='';
   for(let i=0;i<3;i++) s+=i<lives?'<span style="color:#ff4466">♥❤️</span>':'<span style="opacity:.2">❤️♥</span>';
   document.getElementById('hp').innerHTML=s;
