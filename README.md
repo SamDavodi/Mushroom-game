@@ -34,7 +34,7 @@ canvas { display:block; }
   border:2px solid #00eeff; color:#00eeff;
   font-family:monospace; font-size:14px; font-weight:bold;
   letter-spacing:2px; cursor:pointer;
-  box-shadow:0 0 15px rgba(0,200,255,0.3);
+  box-shadow:0 0 15px rgba(0,200,255,0.3);;
 }
 .btn:hover { background:rgba(0,200,255,0.15); }
 .hidden { display:none !important; }
