@@ -213,6 +213,7 @@ function update(){
     }
   }
 
+
   if(P.x<0)P.x=0;
   if(P.x+P.w>W())P.x=W()-P.w;
   if(P.y>H()+80)loseLive();
